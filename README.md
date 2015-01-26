@@ -3,6 +3,8 @@ Yahtzee with Friends
 
 This is the Assignment 1 submission for JP's COMP3004 class.
 
+![Yahtzee with Friends](screenshot.png)
+
 Files included:
 - Server.jar - To run the server
 - Client.jar - To run the client
